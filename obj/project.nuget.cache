@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "/dq50ZMPs2/tEX0fYIv6YAk18ukqrD5zEWhrPFovabJlszw+JJV0uEFzFTwccpTIqc0aTliMJxlNKiT6m4UKGg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lucas\\Downloads\\Cadastro-Cliente-main\\Cadastro-Cliente-main\\DioSeries.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lucas\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512",
+    "C:\\Users\\Lucas\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Lucas\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Lucas\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

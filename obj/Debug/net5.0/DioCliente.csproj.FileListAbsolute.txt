@@ -1,0 +1,16 @@
+C:\Users\Lucas\Desktop\Cadastro-de-Series-main\DioSeries\bin\Debug\net5.0\DioCliente.exe
+C:\Users\Lucas\Desktop\Cadastro-de-Series-main\DioSeries\bin\Debug\net5.0\DioCliente.deps.json
+C:\Users\Lucas\Desktop\Cadastro-de-Series-main\DioSeries\bin\Debug\net5.0\DioCliente.runtimeconfig.json
+C:\Users\Lucas\Desktop\Cadastro-de-Series-main\DioSeries\bin\Debug\net5.0\DioCliente.runtimeconfig.dev.json
+C:\Users\Lucas\Desktop\Cadastro-de-Series-main\DioSeries\bin\Debug\net5.0\DioCliente.dll
+C:\Users\Lucas\Desktop\Cadastro-de-Series-main\DioSeries\bin\Debug\net5.0\ref\DioCliente.dll
+C:\Users\Lucas\Desktop\Cadastro-de-Series-main\DioSeries\bin\Debug\net5.0\DioCliente.pdb
+C:\Users\Lucas\Desktop\Cadastro-de-Series-main\DioSeries\obj\Debug\net5.0\DioCliente.csproj.AssemblyReference.cache
+C:\Users\Lucas\Desktop\Cadastro-de-Series-main\DioSeries\obj\Debug\net5.0\DioCliente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Desktop\Cadastro-de-Series-main\DioSeries\obj\Debug\net5.0\DioCliente.AssemblyInfoInputs.cache
+C:\Users\Lucas\Desktop\Cadastro-de-Series-main\DioSeries\obj\Debug\net5.0\DioCliente.AssemblyInfo.cs
+C:\Users\Lucas\Desktop\Cadastro-de-Series-main\DioSeries\obj\Debug\net5.0\DioCliente.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\Cadastro-de-Series-main\DioSeries\obj\Debug\net5.0\DioCliente.dll
+C:\Users\Lucas\Desktop\Cadastro-de-Series-main\DioSeries\obj\Debug\net5.0\ref\DioCliente.dll
+C:\Users\Lucas\Desktop\Cadastro-de-Series-main\DioSeries\obj\Debug\net5.0\DioCliente.pdb
+C:\Users\Lucas\Desktop\Cadastro-de-Series-main\DioSeries\obj\Debug\net5.0\DioCliente.genruntimeconfig.cache
